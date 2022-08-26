@@ -4,8 +4,6 @@
 !/.gitignore
 !/.LICENCE
 !/.README.md
-!/Assets
-/Assets/*
-!/Assets/Varneon
-/Assets/Varneon/*
-!/Assets/Varneon/SubfolderNameHere
+!/Packages
+/Packages/*
+!/Packages/com.varneon.v-udon.abstract
