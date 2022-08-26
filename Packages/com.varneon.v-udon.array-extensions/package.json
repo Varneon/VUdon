@@ -1,0 +1,15 @@
+{
+  "name": "com.varneon.v-udon.array-extensions",
+  "version": "0.1.0",
+  "displayName": "VUdon - Array Extensions",
+  "description": "Collection of array extension methods compatible with UdonSharp 1.x which adds partial feature set from List<T>",
+  "unity": "2019.4",
+  "unityRelease": "31f1",
+  "author": {
+    "name": "Varneon",
+    "url": "https://github.com/Varneon"
+  },
+  "vpmDependencies": {
+    "com.vrchat.udonsharp": "1.x.x"
+  }
+}
