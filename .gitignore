@@ -1,0 +1,11 @@
+/*
+!/.git
+!/.github
+!/.gitignore
+!/.LICENCE
+!/.README.md
+!/Assets
+/Assets/*
+!/Assets/Varneon
+/Assets/Varneon/*
+!/Assets/Varneon/SubfolderNameHere
