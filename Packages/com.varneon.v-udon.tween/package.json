@@ -1,0 +1,16 @@
+{
+  "name": "com.varneon.v-udon.tween",
+  "version": "0.0.1",
+  "displayName": "VUdon - Tween",
+  "description": "Tweening library for UdonSharp",
+  "unity": "2019.4",
+  "unityRelease": "31f1",
+  "author": {
+    "name": "Varneon",
+    "url": "https://github.com/Varneon"
+  },
+  "vpmDependencies": {
+    "com.vrchat.worlds": "3.x.x",
+    "com.vrchat.udonsharp": "1.x.x"
+  }
+}
