@@ -8,7 +8,7 @@ UdonSharp prefab ecosystem for VRChat worlds
 | `Abstract` | `com.varneon.v-udon.abstract` | *Abstract prefab dependencies* | :desktop_computer: |
 | `Common` | `com.varneon.v-udon.common` | *Common enums shared across all prefabs* | :desktop_computer: |
 | `Core` | `com.varneon.v-udon.core` | *Single-instance core prefabs (e.g. HUD, Interaction Framework, Noclip)* | :desktop_computer: |
-| `Essentials` | `com.varneon.v-udon.essentials` | *Standards prefabs (e.g. Playerlist, Music Player, Groups)* | :desktop_computer: |
+| `Essentials` | `com.varneon.v-udon.essentials` | *Standard prefabs (e.g. Playerlist, Music Player, Groups)* | :desktop_computer: |
 | `RuntimeTools` | `com.varneon.v-udon.runtime-tools` | *Runtime tool prefabs (e.g. UdonConsole, Debuggers)* | :desktop_computer: |
 | `Udonity` | `com.varneon.v-udon.udonity` | *Runtime Unity Editor made with Udon* | :desktop_computer: |
 | `Vehicles` | `com.varneon.v-udon.vehicles` | *UdonVehicles SDK* | :desktop_computer: |
