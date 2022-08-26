@@ -6,6 +6,7 @@ UdonSharp prefab ecosystem for VRChat worlds
 | **Package** | **Name** | **Description** | **Status** |
 | - | - | - | - |
 | `Abstract` | `com.varneon.v-udon.abstract` | *Abstract prefab dependencies* | :desktop_computer: |
+| `Array Extensions` | `com.varneon.v-udon.array-extensions` | *Collection of array extension methods compatible with UdonSharp 1.x which adds partial feature set from List<T>* | :unlock: |
 | `Common` | `com.varneon.v-udon.common` | *Common enums shared across all prefabs* | :desktop_computer: |
 | `Core` | `com.varneon.v-udon.core` | *Single-instance core prefabs (e.g. HUD, Interaction Framework, Noclip)* | :desktop_computer: |
 | `Essentials` | `com.varneon.v-udon.essentials` | *Standard prefabs (e.g. Playerlist, Music Player, Groups)* | :desktop_computer: |
