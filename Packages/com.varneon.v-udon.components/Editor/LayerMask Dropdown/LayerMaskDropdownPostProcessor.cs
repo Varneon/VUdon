@@ -14,7 +14,7 @@ using static UnityEngine.EventSystems.EventTrigger;
 
 namespace Varneon.VUdon.Components.Editor
 {
-    internal static class LayerMaskDropdownUpdater
+    internal static class LayerMaskDropdownPostProcessor
     {
         [PostProcessScene(-1)] // Ensure that all of the dropdowns get processed before U# saves the C# component data into UdonBehaviours
         private static void InitializeLayerMaskDropdowns()
