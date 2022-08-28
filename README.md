@@ -5,10 +5,6 @@ UdonSharp prefab ecosystem for VRChat worlds
 
 > ### No, this is *NOT* a "Bloated Prefab Mega Pack", this is fully dependency-driven modular ecosystem. Simply download this repository's .zip, link all modules to VCC's user packages and try it out!
 
-> ### You only have to download the repository again each time a new update comes out, and once you link the new version to VRChat Creator Companion, all of your projects will be automatically updated in the background.
-
-> ### VRChat Creator Companion uses [UPM local packages](https://docs.unity3d.com/2019.4/Documentation/Manual/upm-ui-local.html), meaning that by using this repository, you will never be using more storage space than the first copy takes up in the source folder.
-
 ---
 
 | **Package** | **Name** | **Description** | **Status** |
