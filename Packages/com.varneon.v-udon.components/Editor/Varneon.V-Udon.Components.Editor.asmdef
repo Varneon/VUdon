@@ -1,0 +1,22 @@
+{
+    "name": "Varneon.V-Udon.Components.Editor",
+    "references": [
+        "Varneon.V-Udon.Components.Runtime",
+        "UdonSharp.Runtime",
+        "VRC.Udon",
+        "UdonSharp.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UDONSHARP"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
