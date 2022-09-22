@@ -7,22 +7,21 @@ UdonSharp prefab ecosystem for VRChat worlds
 
 ---
 
-| **Package** | **Name** | **Description** | **Status** |
-| - | - | - | - |
-| `Abstract` | `com.varneon.v-udon.abstract` | *Abstract prefab dependencies* | :desktop_computer: |
-| `Array Extensions` | `com.varneon.v-udon.array-extensions` | *Collection of array extension methods compatible with UdonSharp 1.x which adds partial feature set from List<T>* | :unlock: |
-| `Components` | `com.varneon.v-udon.components` | *Special components for replicating elements from Unity Editor or other components not currently accessible via Udon* | :unlock: |
-| `Common` | `com.varneon.v-udon.common` | *Common enums shared across all prefabs* | :desktop_computer: |
-| `Core` | `com.varneon.v-udon.core` | *Single-instance core prefabs (e.g. HUD, Interaction Framework, Noclip)* | :desktop_computer: |
-| `Essentials` | `com.varneon.v-udon.essentials` | *Standard prefabs (e.g. Playerlist, Music Player, Groups)* | :desktop_computer: |
-| `RuntimeTools` | `com.varneon.v-udon.runtime-tools` | *Runtime tool prefabs (e.g. UdonConsole, Debuggers)* | :desktop_computer: |
-| `Udonity` | `com.varneon.v-udon.udonity` | *Runtime Unity Editor made with Udon* | :desktop_computer: |
-| `Vehicles` | `com.varneon.v-udon.vehicles` | *UdonVehicles SDK* | :desktop_computer: |
-| `Vehicles-Lite` | `com.varneon.v-udon.vehicles-lite` | *Lightweight vehicle prefab* | :desktop_computer: |
-| `Tween` | `com.varneon.v-udon.tween` | *Tweening library for Udon* | :desktop_computer: |
-| `Arcade` | `com.varneon.v-udon.arcade` | *Arcade machines for worlds* | :bulb: |
-| `Economy` | `com.varneon.v-udon.economy` | *In-world economy framework* | :bulb: |
-| `Cinematix` | `com.varneon.v-udon.cinematix` | *Cinematic "director mode" for worlds* | :bulb: |
+| **Package** | **Description** | **Status** |
+| - | - | :-: |
+| [Seats](https://github.com/Varneon/VUdon-Seats) |  *Self-calibrating synced abstract seats with callbacks and API* | :unlock: |
+| [Array&#160;Extensions](https://github.com/Varneon/VUdon-ArrayExtensions) |  *Collection of array extension methods compatible with UdonSharp 1.x which adds partial feature set from List<T>* | :unlock: |
+| [Visibility&#160;Sensors](https://github.com/Varneon/VUdon-VisibilitySensors) |  *Various sensors for detecting a renderer's visibility state and relaying it to e.g. GameObject's active state, UdonBehaviour variables, etc.* | :unlock: |
+| [Depth&#160;Buffer&#160;Toolkit](https://github.com/Varneon/VUdon-DepthBufferToolkit) |  *A toolkit for configuring the depth buffer in VRChat worlds with Udon* | :unlock: |
+| [Vehicle&#160;Controls](https://github.com/Varneon/VUdon-VehicleControls) |  *A collection of experimental physically interactable controls for vehicles* | :desktop_computer: |
+| [Noclip](https://github.com/Varneon/VUdon-Noclip) | *Noclip for worlds* | :desktop_computer: |
+| Vehicles-Lite | *Lightweight vehicle prefab* | :lock: |
+| Vehicles | *UdonVehicles SDK* | :desktop_computer: |
+| Udonity | *Runtime Unity Editor made with Udon* | :desktop_computer: |
+| Tween | *Tweening library for Udon* | :desktop_computer: |
+| Arcade | *Arcade machines for worlds* | :bulb: |
+| Economy | *In-world economy framework* | :bulb: |
+| Cinematix | *Cinematic "director mode" for worlds* | :bulb: |
 
 | **Status** | **Icon** | **Explanation** |
 | - | - | - |
