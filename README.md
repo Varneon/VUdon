@@ -3,7 +3,7 @@ UdonSharp prefab ecosystem for VRChat worlds
 
 > ## This is an experimental new repository for distributing a large ecosystem of all of my UdonSharp prefabs via VRChat Creator Companion and Unity Package Manager in a modular format.
 
-> ### No, this is *NOT* a "Bloated Prefab Mega Pack", this is fully dependency-driven modular ecosystem. Simply download this repository's .zip, link all modules to VCC's user packages and try it out!
+> ### No, this is *NOT* a "Bloated Prefab Mega Pack", this is fully dependency-driven modular ecosystem. Repository listing for adding these packages to your VRChat Creator Companion will be released soon.
 
 ---
 
