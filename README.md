@@ -15,6 +15,18 @@ UdonSharp prefab ecosystem for VRChat worlds
 | [Depth&#160;Buffer&#160;Toolkit](https://github.com/Varneon/VUdon-DepthBufferToolkit) |  *A toolkit for configuring the depth buffer in VRChat worlds with Udon* | :unlock: |
 | [Noclip](https://github.com/Varneon/VUdon-Noclip) | *Noclip for worlds* | :unlock: |
 | [Vehicle&#160;Controls](https://github.com/Varneon/VUdon-VehicleControls) |  *A collection of experimental physically interactable controls for vehicles* | :desktop_computer: |
+| Simple&#160;Player&#160;Settings |  *Simple, but more advanced replacement for the original "VRCWorldSettings" UdonBehaviour that ships with VRCSDK* | :desktop_computer: |
+| Playerlist | *List that shows all players in the instance, player count, player join times, instance lifetime and master* | :desktop_computer: |
+| Music&#160;Player | *Music player that allows world creators to create playlists for their worlds for everyone to listen to* | :desktop_computer: |
+| Groups | *UdonBehaviour for establishing in-game groups which can be accessed from other UdonBehaviours* | :desktop_computer: |
+| Console | *In-game console for showing custom logs in realtime while inside the world* | :desktop_computer: |
+| Event&#160;Dispatcher | *Dispatcher for allowing UdonSharpBehaviours to receive delegated update events* | :desktop_computer: |
+| Player&#160;Tracker | *Centralized tracker for providing tracked transforms on the local player's TrackingData or bones* | :desktop_computer: |
+| Raycast&#160;Monitor | *Runtime utility for shooting fully customizable raycasts and monitoring the results* | :desktop_computer: |
+| Layermask&#160;Dropdown | *Custom component for modifying standard UI Dropdown's behaviour to replicate a Layermask dropdown's behaviour from Unity Editor in VRChat* | :desktop_computer: |
+| "VTouch" | *Abstract classes for allowing scripts to invoke and detect physical touch by the player* | :desktop_computer: |
+| Menus | *Menu framework for creating abstract menus* | :desktop_computer: |
+| Notifications | *Notification framework for creating abstract notifications* | :desktop_computer:|
 | Vehicles-Lite | *Lightweight vehicle prefab* | :lock: |
 | Vehicles | *UdonVehicles SDK* | :desktop_computer: |
 | Udonity | *Runtime Unity Editor made with Udon* | :desktop_computer: |
