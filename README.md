@@ -13,8 +13,8 @@ UdonSharp prefab ecosystem for VRChat worlds
 | [Array&#160;Extensions](https://github.com/Varneon/VUdon-ArrayExtensions) |  *Collection of array extension methods compatible with UdonSharp 1.x which adds partial feature set from List<T>* | :unlock: |
 | [Visibility&#160;Sensors](https://github.com/Varneon/VUdon-VisibilitySensors) |  *Various sensors for detecting a renderer's visibility state and relaying it to e.g. GameObject's active state, UdonBehaviour variables, etc.* | :unlock: |
 | [Depth&#160;Buffer&#160;Toolkit](https://github.com/Varneon/VUdon-DepthBufferToolkit) |  *A toolkit for configuring the depth buffer in VRChat worlds with Udon* | :unlock: |
+| [Noclip](https://github.com/Varneon/VUdon-Noclip) | *Noclip for worlds* | :unlock: |
 | [Vehicle&#160;Controls](https://github.com/Varneon/VUdon-VehicleControls) |  *A collection of experimental physically interactable controls for vehicles* | :desktop_computer: |
-| [Noclip](https://github.com/Varneon/VUdon-Noclip) | *Noclip for worlds* | :desktop_computer: |
 | Vehicles-Lite | *Lightweight vehicle prefab* | :lock: |
 | Vehicles | *UdonVehicles SDK* | :desktop_computer: |
 | Udonity | *Runtime Unity Editor made with Udon* | :desktop_computer: |
