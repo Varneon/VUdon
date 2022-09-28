@@ -4,16 +4,3 @@
 !/.gitignore
 !/.LICENCE
 !/.README.md
-!/Packages
-/Packages/*
-!/Packages/com.varneon.v-udon.abstract
-!/Packages/com.varneon.v-udon.common
-!/Packages/com.varneon.v-udon.core
-!/Packages/com.varneon.v-udon.essentials
-!/Packages/com.varneon.v-udon.runtime-tools
-!/Packages/com.varneon.v-udon.udonity
-!/Packages/com.varneon.v-udon.vehicles
-!/Packages/com.varneon.v-udon.vehicles-lite
-!/Packages/com.varneon.v-udon.tween
-!/Packages/com.varneon.v-udon.array-extensions
-!/Packages/com.varneon.v-udon.components
