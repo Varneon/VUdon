@@ -15,6 +15,7 @@ UdonSharp prefab ecosystem for VRChat worlds
 | [Depth&#160;Buffer&#160;Toolkit](https://github.com/Varneon/VUdon-DepthBufferToolkit) |  *A toolkit for configuring the depth buffer in VRChat worlds with Udon* | :unlock: |
 | [Noclip](https://github.com/Varneon/VUdon-Noclip) | *Noclip for worlds* | :unlock: |
 | [Logger](https://github.com/Varneon/VUdon-Logger) | *Runtime logger for UdonSharp, includes console window prefab for viewing the logs in world* | :unlock: |
+| [Common](https://github.com/Varneon/VUdon-Common) | *Common resources for the VUdon ecosystem* | :unlock: |
 | [Vehicle&#160;Controls](https://github.com/Varneon/VUdon-VehicleControls) |  *A collection of experimental physically interactable controls for vehicles* | :desktop_computer: |
 | [Player&#160;Tracker](https://github.com/Varneon/VUdon-PlayerTracker) | *Centralized tracker for providing tracked transforms on the local player's TrackingData or bones* | :desktop_computer: |
 | [Vehicles-Base](https://github.com/Varneon/VUdon-Vehicles-Base) | *Common vehicle assets, prefabs and editor scripts for VUdon - Vehicles (Lite & Standard)* | :desktop_computer: |
