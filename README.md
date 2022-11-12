@@ -17,10 +17,10 @@ UdonSharp prefab ecosystem for VRChat worlds
 | [Logger](https://github.com/Varneon/VUdon-Logger) | *Runtime logger for UdonSharp, includes console window prefab for viewing the logs in world* | :unlock: |
 | [Common](https://github.com/Varneon/VUdon-Common) | *Common resources for the VUdon ecosystem* | :unlock: |
 | [Event&#160;Dispatcher](https://github.com/Varneon/VUdon-EventDispatcher) | *Dispatcher for allowing UdonSharpBehaviours to receive delegated update events* | :unlock: |
+| [Simple&#160;Player&#160;Settings](https://github.com/Varneon/VUdon-SimplePlayerSettings) |  *Simple, but more advanced replacement for the original "VRCWorldSettings" UdonBehaviour that ships with VRCSDK* | :unlock: |
 | [Vehicle&#160;Controls](https://github.com/Varneon/VUdon-VehicleControls) |  *A collection of experimental physically interactable controls for vehicles* | :desktop_computer: |
 | [Player&#160;Tracker](https://github.com/Varneon/VUdon-PlayerTracker) | *Centralized tracker for providing tracked transforms on the local player's TrackingData or bones* | :desktop_computer: |
 | [Vehicles-Base](https://github.com/Varneon/VUdon-Vehicles-Base) | *Common vehicle assets, prefabs and editor scripts for VUdon - Vehicles (Lite & Standard)* | :desktop_computer: |
-| [Simple&#160;Player&#160;Settings](https://github.com/Varneon/VUdon-SimplePlayerSettings) |  *Simple, but more advanced replacement for the original "VRCWorldSettings" UdonBehaviour that ships with VRCSDK* | :desktop_computer: |
 | Playerlist | *List that shows all players in the instance, player count, player join times, instance lifetime and master* | :desktop_computer: |
 | Music&#160;Player | *Music player that allows world creators to create playlists for their worlds for everyone to listen to* | :desktop_computer: |
 | Groups | *UdonBehaviour for establishing in-game groups which can be accessed from other UdonBehaviours* | :desktop_computer: |
