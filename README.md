@@ -22,8 +22,8 @@ UdonSharp prefab ecosystem for VRChat worlds
 | [Player&#160;Tracker](https://github.com/Varneon/VUdon-PlayerTracker) | *Centralized tracker for providing tracked transforms on the local player's TrackingData or bones* | :desktop_computer: |
 | [Vehicles-Base](https://github.com/Varneon/VUdon-Vehicles-Base) | *Common vehicle assets, prefabs and editor scripts for VUdon - Vehicles (Lite & Standard)* | :desktop_computer: |
 | [Layermask&#160;Dropdown](https://github.com/Varneon/VUdon-LayerMaskDropdown) | *Custom component for modifying standard UI Dropdown's behaviour to replicate a Layermask dropdown's behaviour from Unity Editor in VRChat* | :desktop_computer: |
+| [Music&#160;Player](https://github.com/Varneon/VUdon-MusicPlayer) | *Music player that allows world creators to create playlists for their worlds for everyone to listen to* | :desktop_computer: |
 | Playerlist | *List that shows all players in the instance, player count, player join times, instance lifetime and master* | :desktop_computer: |
-| Music&#160;Player | *Music player that allows world creators to create playlists for their worlds for everyone to listen to* | :desktop_computer: |
 | Groups | *UdonBehaviour for establishing in-game groups which can be accessed from other UdonBehaviours* | :desktop_computer: |
 | Raycast&#160;Monitor | *Runtime utility for shooting fully customizable raycasts and monitoring the results* | :desktop_computer: |
 | "VTouch" | *Abstract classes for allowing scripts to invoke and detect physical touch by the player* | :desktop_computer: |
