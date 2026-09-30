@@ -14,7 +14,7 @@ UdonSharp prefab ecosystem for VRChat worlds
 | [Quick&#160;Menu](https://github.com/Varneon/VUdon-QuickMenu) | *HUD quick menu prefab for VRChat worlds* | :unlock: |
 | [Menus](https://github.com/Varneon/VUdon-Menus) | *Menu framework for creating abstract menus* | :unlock: |
 | [Events](https://github.com/Varneon/VUdon-Events) | *UnityEvents for UdonSharp* | :unlock: |
-| [Music&#160;Player](https://github.com/Varneon/VUdon-MusicPlayer) | *Music player that allows world creators to create playlists for their worlds for everyone to listen to* | :lock: |
+| [Music&#160;Player](https://github.com/Varneon/VUdon-MusicPlayer) | *Music player that allows world creators to create playlists for their worlds for everyone to listen to* | :unlock: |
 | [Player&#160;Tracker](https://github.com/Varneon/VUdon-PlayerTracker) | *Centralized tracker for providing tracked transforms on the local player's TrackingData or bones* | :desktop_computer: |
 | Roles | *Tools for assigning roles to players in VRChat worlds based on name lists and Creator Economy* | :desktop_computer: |
 | World Markers | *Configurable world-space marker shader for e.g. waypoints, points of interest, interactions, etc.* | :desktop_computer: |
